@@ -1,6 +1,6 @@
 # SuperResolucion_en_Imagenes_Satelitales
 
-- Por: Johan Sebastian Muñoz Ossa  -  js.munoz.ai@gmail.com
+- Elaborado por: Johan Sebastian Muñoz Ossa  -  js.munoz.ai@gmail.com
 
 
 Se busca mejorar la resolución de las imágenes satelitales mediante técnicas de la **visión por computador clásica** y de **Machine Learning** con el uso de las librerías openCV y skimage. 
